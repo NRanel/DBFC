@@ -1,0 +1,86 @@
+3/18/2024 7:44:45 PM	This log contains information about the import schema operation into project 'DBFC' on computer 'LAPTOP-7SO9IOTK' by user 'natha'.
+3/18/2024 7:44:46 PM	Import of database schema has started.
+3/18/2024 7:45:04 PM	Gathering database credentials
+3/18/2024 7:45:04 PM	Gathering database options
+3/18/2024 7:45:05 PM	Gathering generic database scoped configuration option
+3/18/2024 7:45:05 PM	Gathering users
+3/18/2024 7:45:05 PM	Gathering roles
+3/18/2024 7:45:05 PM	Gathering application roles
+3/18/2024 7:45:05 PM	Gathering role memberships
+3/18/2024 7:45:05 PM	Gathering filegroups
+3/18/2024 7:45:05 PM	Gathering full-text catalogs
+3/18/2024 7:45:05 PM	Gathering assemblies
+3/18/2024 7:45:05 PM	Gathering certificates
+3/18/2024 7:45:05 PM	Gathering asymmetric keys
+3/18/2024 7:45:05 PM	Gathering symmetric keys
+3/18/2024 7:45:05 PM	Gathering encrypted symmetric keys
+3/18/2024 7:45:05 PM	Gathering schemas
+3/18/2024 7:45:05 PM	Gathering XML schema collections
+3/18/2024 7:45:05 PM	Gathering user-defined data types
+3/18/2024 7:45:05 PM	Gathering user-defined types
+3/18/2024 7:45:05 PM	Gathering table types
+3/18/2024 7:45:05 PM	Gathering unique keys for table types
+3/18/2024 7:45:05 PM	Gathering primary keys for table types
+3/18/2024 7:45:06 PM	Gathering indexes for table types
+3/18/2024 7:45:06 PM	Gathering check constraints for table types
+3/18/2024 7:45:06 PM	Gathering default constraints for table types
+3/18/2024 7:45:06 PM	Gathering partition functions
+3/18/2024 7:45:06 PM	Gathering partition schemes
+3/18/2024 7:45:06 PM	Gathering functions
+3/18/2024 7:45:06 PM	Gathering encrypted functions
+3/18/2024 7:45:06 PM	Gathering aggregates
+3/18/2024 7:45:06 PM	Gathering procedures
+3/18/2024 7:45:06 PM	Gathering encrypted procedures
+3/18/2024 7:45:06 PM	Gathering tables
+3/18/2024 7:45:06 PM	Gathering primary keys
+3/18/2024 7:45:06 PM	Gathering unique constraints
+3/18/2024 7:45:06 PM	Gathering foreign keys
+3/18/2024 7:45:06 PM	Gathering default constraints
+3/18/2024 7:45:06 PM	Gathering check constraints
+3/18/2024 7:45:06 PM	Gathering views
+3/18/2024 7:45:06 PM	Gathering encrypted views
+3/18/2024 7:45:06 PM	Gathering indexes
+3/18/2024 7:45:06 PM	Gathering statistics
+3/18/2024 7:45:06 PM	Gathering full-text index stoplists
+3/18/2024 7:45:06 PM	Gathering search property lists
+3/18/2024 7:45:06 PM	Gathering search properties
+3/18/2024 7:45:06 PM	Gathering full-text indexes
+3/18/2024 7:45:06 PM	Gathering column store indexes
+3/18/2024 7:45:06 PM	Gathering spatial indexes
+3/18/2024 7:45:06 PM	Gathering XML indexes
+3/18/2024 7:45:06 PM	Gathering Selective XML indexes
+3/18/2024 7:45:06 PM	Gathering encrypted triggers
+3/18/2024 7:45:06 PM	Gathering triggers
+3/18/2024 7:45:06 PM	Gathering encrypted and clr ddl triggers
+3/18/2024 7:45:06 PM	Gathering ddl triggers
+3/18/2024 7:45:06 PM	Creating edge constraints
+3/18/2024 7:45:06 PM	Gathering synonyms
+3/18/2024 7:45:06 PM	Gathering defaults
+3/18/2024 7:45:06 PM	Gathering data constraint uddt bindings
+3/18/2024 7:45:06 PM	Gathering rules
+3/18/2024 7:45:06 PM	Gathering data constraint uddt bindings
+3/18/2024 7:45:06 PM	Gathering message types
+3/18/2024 7:45:06 PM	Gathering queues
+3/18/2024 7:45:06 PM	Gathering contracts
+3/18/2024 7:45:06 PM	Gathering services
+3/18/2024 7:45:06 PM	Gathering event notifications
+3/18/2024 7:45:06 PM	Gathering remote service bindings
+3/18/2024 7:45:06 PM	Gathering broker priorities
+3/18/2024 7:45:06 PM	Gathering signatures
+3/18/2024 7:45:06 PM	Gathering compression options
+3/18/2024 7:45:06 PM	Gathering sequence types
+3/18/2024 7:45:07 PM	Gathering security policies
+3/18/2024 7:45:07 PM	Gather column encryption keys
+3/18/2024 7:45:07 PM	Gathering column master keys
+3/18/2024 7:45:07 PM	Gathering external data sources
+3/18/2024 7:45:07 PM	Gathering external file formats
+3/18/2024 7:45:07 PM	Gathering external tables
+3/18/2024 7:45:07 PM	Gathering XML index compression options
+3/18/2024 7:45:07 PM	Gathering extended properties
+3/18/2024 7:45:08 PM	Gathering assemblies
+3/18/2024 7:45:08 PM	Gathering credentials
+3/18/2024 7:45:08 PM	Gathering logins
+3/18/2024 7:45:08 PM	Gathering server audits
+3/18/2024 7:45:08 PM	Finished importing database.
+3/18/2024 7:45:08 PM	A summary of the import was saved to the following location: C:\Users\natha\Projects\DBFC\DBFC\Import Schema Logs\DBFC_20240319124445.log
+3/18/2024 7:45:08 PM	Click Finish to continue...
